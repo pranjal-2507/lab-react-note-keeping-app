@@ -1,0 +1,29 @@
+body{
+  background-color: #3867D6;
+  color: white;
+}
+
+.input-text{
+  border-radius: 5px;
+  border: 3px solid black;
+  height: 400px;
+  width: 600px;
+  background-color:#3867D6;
+  outline-style: none;
+  
+}
+.output-text{
+  box-shadow: 5px 4px 6px black;
+  height: 500px;
+  width: 500px;
+  background-color: #464646;
+  border-radius: 10px;
+}
+.container{
+  display: flex;
+  justify-content: space-around;
+
+}
+h3{
+  text-align: left;
+}
